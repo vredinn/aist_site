@@ -6,7 +6,7 @@
                 <h1 class="title title__services">Аренда беседки</h1>
             </div>
         </div>
-        <img class="services__img services__img--top" src="@/assets/img/services_top.jpg" alt="Беседка">
+        <img class="services__img services__img--top" src="@/assets/img/services-top.jpg" alt="Беседка">
         <div class="container">
             <div class="services__container">
                 <h2 class="table__title">Прейскурант цен на платные услуги ГАУ ДО СО «СШОР Антс» с 01 декабря 2023 года</h2>
@@ -45,7 +45,7 @@
                 </div>
             </div>
         </div>        
-        <img class="services__img services__img--bottom" src="@/assets/img/srvices_bottom.jpg" alt="Беседка">
+        <img class="services__img services__img--bottom" src="@/assets/img/services-bottom.jpg" alt="Беседка">
     </section>
 </template>
 
