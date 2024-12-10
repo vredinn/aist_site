@@ -139,8 +139,9 @@
         .services__title{
             top: 12px;
         }
-        .title__services{            
+        .title__services{
             text-align: center;
+            text-align-last: center;
         }
         
         .services__img--bottom{
