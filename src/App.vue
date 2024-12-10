@@ -25,7 +25,7 @@
                     <router-link to="/about" href="#" class="header__link">Сведения об образовательной организации</router-link>
                     <router-link to="/" href="#" class="header__link">Информация для родителей</router-link>
                     <router-link to="/" href="#" class="header__link">Антидопинг</router-link>
-                    <router-link to="/" href="#" class="header__link">Услуги</router-link>
+                    <router-link to="/services" href="#" class="header__link">Услуги</router-link>
                     <router-link to="/" href="#" class="header__link">Спортивный комплекс</router-link>
                     <router-link to="/" href="#" class="header__link">Профилактические мероприятия</router-link>
                     <router-link to="/" href="#" class="header__link">Новости</router-link>
