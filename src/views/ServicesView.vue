@@ -14,7 +14,7 @@
                     <thead>
                         <tr>
                         <th>№ п/п</th>
-                        <th class="table__service-name">Наименование услуги</th>
+                        <th class="table__align-left">Наименование услуги</th>
                         <th>ед. изм.</th>
                         <th>цена, руб. (с НДС)</th>
                         </tr>
@@ -94,7 +94,7 @@
         text-align: center;
     }
     .table__align-left{
-        text-align-last: left;
+        text-align: left;
     }
     .table__body::before, .table__body::after{
         content: '';
