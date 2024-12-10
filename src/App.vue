@@ -233,11 +233,12 @@ body{
     min-width: 269px;
     width: fit-content;
     padding: 0 24px;
-    height: 51px;
+    min-height: 51px;
     font-size: 24px;
     font-weight: 400;
     line-height: 35px;
     text-decoration: none;
+    text-align: center;
 }
 
 .btn:hover{
@@ -268,7 +269,7 @@ body{
 @media screen and (max-width: 992px){ /*md*/    
     .btn{
         min-width: 240px;
-        height: 46px;
+        min-height: 46px;
         font-size: 20px;
         line-height: 29px;
     }
@@ -297,7 +298,7 @@ body{
         justify-content: flex-start;
     }
     .btn{
-        padding: 0 12px;
+        font-size: 18px;
     }
 
 }
